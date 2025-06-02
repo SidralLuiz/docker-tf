@@ -1,0 +1,1 @@
+Repositório focado na automação da implementação de uma arquitetura completa de sistemas, integrando o front-end desenvolvido em Angular, o back-end com Spring Boot e o banco de dados relacional PostgreSQL. O projeto visa otimizar processos de provisionamento e garantir a padronização na configuração e implantação de serviços.
